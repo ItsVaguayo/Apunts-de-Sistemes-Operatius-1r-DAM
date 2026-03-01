@@ -1,1 +1,1 @@
-“# Els meus apunts de Sistemes Operatius - VictorAguayo”
+# Els meus apunts de Sistemes Operatius - VictorAguayo
